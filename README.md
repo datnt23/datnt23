@@ -1,5 +1,23 @@
-## Hi there 👋
+# 👋 Hello! I'm Dat
 
+**`💻 Developer`**
+
+---
+
+## 🚀 My Skills
+
+### Languages
+- **JavaScript**
+- **HTML/CSS** 
+
+### Frameworks & Libraries
+- **React** | **Node.js**
+- **Express**
+
+### Tools & Technologies
+- **Git** 
+
+---
 <!--
 **datnt23/datnt23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
