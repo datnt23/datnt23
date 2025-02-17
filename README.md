@@ -13,6 +13,7 @@
 ### Frameworks & Libraries
 - **React** | **Node.js**
 - **Express**
+- **Tailwind CSS**
 
 ### Tools & Technologies
 - **Git** 
