@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dat Dot</h1>
-
-
-**`💻 React Developer`**
+<h3 align="center">A passionate Full Stack Developer 🚀</h3>
 
 ---
 
@@ -19,8 +17,6 @@
 
 ---
 
----
-
 ### 🔗 Connect with me  
 <p align="left">
   <a href="https://linkedin.com/in/{your-linkedin}](https://www.linkedin.com/in/dat-dot" target="_blank">
@@ -35,3 +31,18 @@
 </p>
 
 ---
+
+### 🚀 Featured Projects  
+🔹 **[map-react-leaflet](https://github.com/datnt23/map-react-leaflet-demo)** - Developed an interactive map application that allows
+users to look up information.
+
+---
+
+### 🎯 Current Learning  
+- 📌 Improving **Next.js** & **NestJS** skills  
+- 🚀 Exploring **AI-powered front-end solutions** & Learn more new technologies
+- 🔥 Contributing to **Open Source Projects**  
+
+---
+
+⭐ **If you like my work, consider giving me a star!** ⭐  
