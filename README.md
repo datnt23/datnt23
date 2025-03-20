@@ -25,11 +25,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### ☁️ DevOps & Tools  
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
 ---
 
 ### 🔗 Connect with me  
@@ -59,10 +54,4 @@ users to look up information.
 - 🔥 Contributing to **Open Source Projects**  
 
 ---
-
-⭐ **If you like my work, consider giving me a star!** ⭐  
-
-## 🌌 Space Background with Shooting Stars
-
-![Space Animation](https://github.com/datnt23/datnt23/blob/main/space-background.html)
 
