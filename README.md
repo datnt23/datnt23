@@ -61,3 +61,8 @@ users to look up information.
 ---
 
 ⭐ **If you like my work, consider giving me a star!** ⭐  
+
+## 🌌 Space Background with Shooting Stars
+
+![Space Animation](https://your-github-pages-link/space-background.html)
+
