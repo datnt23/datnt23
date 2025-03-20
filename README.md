@@ -64,5 +64,5 @@ users to look up information.
 
 ## 🌌 Space Background with Shooting Stars
 
-![Space Animation]([https://your-github-pages-link/space-background.html](https://github.com/datnt23/datnt23/blob/main/space-background.html))
+![Space Animation](https://github.com/datnt23/datnt23/blob/main/space-background.html)
 
