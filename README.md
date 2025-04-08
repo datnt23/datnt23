@@ -48,6 +48,7 @@
 ### 🚀 Featured Projects  
 🔹 **[map-react-leaflet](https://github.com/datnt23/map-react-leaflet-demo)** - Developed an interactive map application that allows
 users to look up information.
+🔹 **[be-ecommerce-nestjs](https://github.com/datnt23/be-nestjs-prisma)** - Built a backend API for an e-commerce platform using NestJS and Prisma, featuring authentication, authorization, and more.
 
 ---
 
