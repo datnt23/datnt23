@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=46&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+%F0%9F%91%8B;I'm+Dat+Dot+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=46&pause=1000&center=true&vCenter=true&width=600&height=80&lines=Hi+There!+%F0%9F%91%8B;I'm+Dart+Nguyen+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 <h3 align="center">🚀 A passionate Full Stack Developer from Viet Nam 🇻🇳</h3>
 
